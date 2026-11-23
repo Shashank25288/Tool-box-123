@@ -1,0 +1,6 @@
+{
+  "name": "ToolBox Billing & Test Counter",
+  "description": "Hardware counter billing calculation engine with editable discount/GST overrides, stock-safe validation, and an interactive test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
